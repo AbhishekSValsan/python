@@ -1,1 +1,0 @@
-items = ["milk","bread","eggs"]
